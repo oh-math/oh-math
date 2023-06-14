@@ -1,10 +1,12 @@
-<h2>Hey there! I'm Matheus!</h2>
+<h2>Olá! Matheus aqui!</h2>
 
 
- 👨🏻‍💻 &nbsp;About Me
+ 👨🏻‍💻 &nbsp;Sobre mim
+ 
+ Desenvolvedor Fullstack entusiasta por Node com sólida experiência em desenvolvimento em APIs REST com Nest e TypeScript. Conhecimento sobre Frontend (majoriatamente sobre backend) com React e Next e breve conhecimento em Java, Spring e arquitetura de microsserviços
 
 
- ⚙️ &nbsp;GitHub Analytics
+ ⚙️ &nbsp;Meu Github
 
 <p align="center">
 <a href="https://github.com/oh-math">
@@ -13,7 +15,7 @@
 </a>
 </p>
 
- 🤝🏻 &nbsp;Connect with Me
+ 🤝🏻 &nbsp;Minhas redes
 
 <p>
 <a href="https://www.linkedin.com/in/matheus-da-costa1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
